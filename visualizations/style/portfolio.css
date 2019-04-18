@@ -1,0 +1,13 @@
+#header {
+  background-color: #053556;
+  text-align:center;
+  margin:0;
+  padding:0;
+  height:100%;
+}
+
+h1, p {
+  color: #FFFFFF;
+  font-family:sans-serif;
+  font-style:italic;
+}
